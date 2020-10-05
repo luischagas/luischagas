@@ -20,7 +20,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
 
 - 🏢 I'm currently working full-time at **Worthix**
 - 🌱 Learning more about and studying: **Angular, DDD and TDD**.
-- 💙 Interests: Games 👾 (PS5 💙)
+- 👾 Interests: Games (PS5 💙) and Music 🎵
 
 ### Languages and Tools
 
