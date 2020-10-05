@@ -113,6 +113,4 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
   </a>
   
   ### Find me around the web 🌎:
-
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/lfchagas/">LinkedIn</a>.
-  
+- [![Linkedin Badge](https://img.shields.io/badge/-Luis%20Chagas-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lfchagas/ "Connect on LinkedIn") [![Twitter Badge](https://img.shields.io/badge/-@lfchagas1-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=lfchagas1 "Follow on Twitter") ![](https://komarev.com/ghpvc/?username=luischagas)
