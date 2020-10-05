@@ -24,7 +24,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
 
 ### Languages and Tools
 
-<a href="#" target="_blank">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img
       src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg"
       alt="csharp"
@@ -33,7 +33,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
     />
 </a>
 
-<a href="#" target="_blank">
+<a href="https://dotnet.microsoft.com/" target="_blank">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"
       alt="csharp"
@@ -42,7 +42,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
     />
 </a>
 
-<a href="#" target="_blank">
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img
       src="https://svgshare.com/i/QFm.svg"
       alt="sqlserver"
@@ -51,7 +51,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
     />
 </a>
 
-<a href="#" target="_blank">
+<a href="https://www.javascript.com/" target="_blank">
     <img
       src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg"
       alt="javascript"
@@ -60,7 +60,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
     />
 </a>
 
-<a href="#" target="_blank">
+<a href="https://www.typescriptlang.org/" target="_blank">
     <img
       src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg"
       alt="typescript"
@@ -69,7 +69,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
     />
 </a>
 
-<a href="#" target="_blank">
+<a href="https://git-scm.com/" target="_blank">
     <img
       src="https://devicon.dev/devicon.git/icons/git/git-original.svg"
       alt="git"
@@ -78,7 +78,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
     />
 </a>
 
-<a href="#" target="_blank">
+<a href="https://visualstudio.microsoft.com/" target="_blank">
     <img
       src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg"
       alt="visual studio"
