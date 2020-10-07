@@ -60,10 +60,10 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
     />
 </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank">
+<a href="https://angular.io/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg"
-      alt="typescript"
+      src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg"
+      alt="angular"
       width="40"
       height="40"
     />
