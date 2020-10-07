@@ -115,8 +115,8 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg"
       alt="azure"
-      width="40"
-      height="40"
+      width="45"
+      height="45"
     />
   </a> 
 
