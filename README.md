@@ -103,7 +103,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
       height="40"
     />
   </a>
-    <a href="https://www.redis.com" target="_blank">
+ <a href="https://www.redis.com" target="_blank">
     <img
       src="https://devicon.dev/devicon.git/icons/redis/redis-original.svg"
       alt="redis"
@@ -111,6 +111,14 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
       height="40"
     />
   </a>
-  
+ <a href="https://www.azure.com" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg"
+      alt="azure"
+      width="40"
+      height="40"
+    />
+  </a> 
+
   ### Find me around the web 🌎:
 - [![Linkedin Badge](https://img.shields.io/badge/-Luis%20Chagas-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lfchagas/ "Connect on LinkedIn") [![Twitter Badge](https://img.shields.io/badge/-@lfchagas1-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=lfchagas1 "Follow on Twitter") ![](https://komarev.com/ghpvc/?username=luischagas)
