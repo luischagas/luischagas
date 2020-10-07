@@ -62,7 +62,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
 
 <a href="https://angular.io/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg"
+      src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-plain.svg"
       alt="angular"
       width="40"
       height="40"
