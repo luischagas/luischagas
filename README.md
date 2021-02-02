@@ -26,7 +26,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/csharp/csharp-original.svg"
       alt="csharp"
       width="40"
       height="40"
@@ -53,7 +53,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
 
 <a href="https://www.javascript.com/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -62,7 +62,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
 
 <a href="https://angular.io/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-plain.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/angularjs/angularjs-original.svg"
       alt="angular"
       width="40"
       height="40"
@@ -71,7 +71,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
 
 <a href="https://git-scm.com/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/git/git-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original.svg"
       alt="git"
       width="40"
       height="40"
@@ -80,7 +80,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
 
 <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/visualstudio/visualstudio-plain.svg"
       alt="visual studio"
       width="40"
       height="40"
@@ -89,7 +89,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
 
 <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/docker/docker-original.svg"
       alt="docker"
       width="40"
       height="40"
@@ -105,7 +105,7 @@ I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, 
   </a>
  <a href="https://www.redis.com" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/redis/redis-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/redis/redis-original.svg"
       alt="redis"
       width="40"
       height="40"
