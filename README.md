@@ -1,8 +1,8 @@
 ### Hi 👋,
 
-I'm a Luis Chagas, I'm a Software Engineer 👨‍💻 based in Rio de Janeiro, Brazil.
+I'm a Luis Chagas, I'm a Tech Lead | Software Engineer 👨‍💻 based in Rio de Janeiro, Brazil.
 
-- 🏢  I'm currently working full-time at **CBYK**
+- 🏢  I'm currently working full-time at **DPC**
 - 🌱  Learning more about and studying: **Angular, DDD and TDD**.
 - 👾  Interests: Games (PS5 💙) and Music 🎵
 
