@@ -15,7 +15,7 @@ I'm a Luis Chagas, I'm a Tech Lead | Software Engineer 👨‍💻 based in Rio 
       <br />
       <img align="center" title="Csharp" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/csharp/csharp-original.svg">
       <img align="center"  title=".NET" alt="CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
-      <img align="center"  title="SQL Server" alt="SQL" height="30" width="40" src="https://www.microsoft.com/en-us/sql-server">
+      <img align="center"  title="SQL Server" alt="SQL" height="30" width="40" src="https://svgshare.com/i/QFm.svg">
       <img align="center"  title="Javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/angularjs/angularjs-original.svg">
       <img align="center" title="Git" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original.svg">
