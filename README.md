@@ -6,103 +6,28 @@ I'm a Luis Chagas, I'm a Tech Lead | Software Engineer 👨‍💻 based in Rio 
 - 🌱  Learning more about and studying: **Angular, DDD and TDD**.
 - 👾  Interests: Games (PS5 💙) and Music 🎵
 
-### Languages and Tools
+##### 🧠 Skills Set 
 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-</a>
-
-<a href="https://dotnet.microsoft.com/" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img
-      src="https://svgshare.com/i/QFm.svg"
-      alt="sqlserver"
-      width="40"
-      height="40"
-    />
-</a>
-
-<a href="https://www.javascript.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-</a>
-
-<a href="https://angular.io/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/angularjs/angularjs-original.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-</a>
-
-<a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/visualstudio/visualstudio-plain.svg"
-      alt="visual studio"
-      width="40"
-      height="40"
-    />
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/docker/docker-original.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://www.rabbitmq.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-      alt="rabbitMQ"
-      width="40"
-      height="40"
-    />
-  </a>
- <a href="https://www.redis.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/redis/redis-original.svg"
-      alt="redis"
-      width="40"
-      height="40"
-    />
-  </a>
- <a href="https://www.azure.com" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg"
-      alt="azure"
-      width="45"
-      height="45"
-    />
-  </a> 
+ <div style="display: inline_block;">
+ <kbd align="center">
+      <kbd>Knowledge in</kbd>
+      <br />
+      <br />
+      <img align="center" title="Csharp" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/csharp/csharp-original.svg">
+      <img align="center"  title=".NET" alt="CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
+      <img align="center"  title="SQL Server" alt="SQL" height="30" width="40" src="https://www.microsoft.com/en-us/sql-server">
+      <img align="center"  title="Javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/angularjs/angularjs-original.svg">
+      <img align="center" title="Git" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original.svg">
+      <img align="center" title="Visual Studio" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/visualstudio/visualstudio-plain.svg">
+      <img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/docker/docker-original.svg">
+      <img align="center" title="RabbitMq" alt="RabbitMq" height="30" width="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg">
+      <img align="center" title="Redis" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/redis/redis-original.svg">
+      <img align="center" title="Redis" alt="Redis" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
+<br />
+<br /> 
+</kbd>
+    </div>
 
   ### Find me around the web 🌎:
 - [![Linkedin Badge](https://img.shields.io/badge/-Luis%20Chagas-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lfchagas/ "Connect on LinkedIn") [![Twitter Badge](https://img.shields.io/badge/-@lfchagas1-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=lfchagas1 "Follow on Twitter") ![](https://komarev.com/ghpvc/?username=luischagas)
