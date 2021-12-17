@@ -29,7 +29,6 @@ I'm a Luis Chagas, I'm a Tech Lead | Software Engineer 👨‍💻 based in Rio 
 </kbd>
     </div>
 
-
   ### Find me around the web 🌎:
   
   <div>
