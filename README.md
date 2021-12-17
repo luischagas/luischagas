@@ -29,5 +29,12 @@ I'm a Luis Chagas, I'm a Tech Lead | Software Engineer 👨‍💻 based in Rio 
 </kbd>
     </div>
 
+
   ### Find me around the web 🌎:
-- [![Linkedin Badge](https://img.shields.io/badge/-Luis%20Chagas-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lfchagas/ "Connect on LinkedIn") [![Twitter Badge](https://img.shields.io/badge/-@lfchagas1-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=lfchagas1 "Follow on Twitter") ![](https://komarev.com/ghpvc/?username=luischagas)
+  
+  <div>
+    <a href="https://www.linkedin.com/in/lfchagas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href = "mailto:contato@luischagas.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ ![](https://komarev.com/ghpvc/?username=luischagas)
+ </div>
+ 
