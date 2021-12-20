@@ -10,8 +10,6 @@ I'm a Luis Chagas, I'm a Tech Lead | Software Engineer 👨‍💻 based in Rio 
 
  <div style="display: inline_block;">
  <kbd align="center">
-      <kbd>Knowledge in</kbd>
-      <br />
       <br />
       <img align="center" title="Csharp" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/csharp/csharp-original.svg">
       <img align="center"  title=".NET" alt="CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
