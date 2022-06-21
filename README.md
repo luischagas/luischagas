@@ -2,7 +2,6 @@
 
 I'm a Luis Chagas, I'm a Tech Lead | Software Engineer 👨‍💻 based in Rio de Janeiro, Brazil.
 
-- 🏢  I'm currently working full-time at **DPC**
 - 🌱  Learning more about and studying: **DDD, TDD and Microservices**.
 - 👾  Interests: Games (PS5 💙) and Work out 💪
 
